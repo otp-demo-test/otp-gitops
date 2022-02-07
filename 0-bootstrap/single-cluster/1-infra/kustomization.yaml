@@ -51,7 +51,7 @@ patches:
   patch: |-
     - op: add
       path: /spec/source/repoURL
-      value: https://github.com/otp-demo/otp-gitops-infra.git
+      value: https://github.com/otp-demo-test/otp-gitops-infra.git
     - op: add
       path: /spec/source/targetRevision
       value: master
