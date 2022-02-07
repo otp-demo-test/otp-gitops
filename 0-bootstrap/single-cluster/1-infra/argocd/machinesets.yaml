@@ -19,7 +19,7 @@ spec:
     helm:
       values: |
         refarch-machinesets:
-          infrastructureId: gitops-vsprw
+          infrastructureId: gitops-p69mr
           # cloudProvider.name set to aws, azure or vsphere
           cloudProvider:
             name: azure
