@@ -21,7 +21,7 @@ spec:
     path: clusters/cluster-build/azure/
     helm:
       values: |
-        cluster: azure-test-0
+        cluster: azure-test0
         type: azure
         imageName: img4.8.28-x86-64-appsub
         clusterSet:
