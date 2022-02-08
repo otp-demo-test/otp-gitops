@@ -21,7 +21,7 @@ spec:
     path: clusters/cluster-build/aws/
     helm:
       values: |
-        cluster: aws-test0
+        cluster: aws-test1
         type: aws
         imageName: img4.8.25-x86-64-appsub
         clusterSet:
