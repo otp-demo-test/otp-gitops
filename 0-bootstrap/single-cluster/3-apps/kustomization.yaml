@@ -39,7 +39,7 @@ resources:
  # - argocd/clusters/create/aws/aws1.yaml
  # - argocd/clusters/create/aws/aws2.yaml
 
- # - argocd/clusters/create/azure/azure-test0.yaml
+ - argocd/clusters/create/azure/azure-managed0.yaml
  # - argocd/clusters/create/azure/azure1.yaml
 
  # - argocd/clusters/create/vsphere/vsphere1.yaml
