@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: apps-cluster-aws-test0
+  name: apps-cluster-aws-test1
   annotations:
     argocd.argoproj.io/sync-wave: "350"
   labels:
