@@ -18,6 +18,7 @@ spec:
     helm:
       values: |
         azureClustersList: 
+        - azure-test-1
         - azure-test-2
   syncPolicy:
     automated:
