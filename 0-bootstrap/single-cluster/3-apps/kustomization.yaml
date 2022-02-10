@@ -46,7 +46,7 @@ resources:
  # - argocd/clusters/create/aws/aws-test-1.yaml
  # - argocd/clusters/create/vsphere/vsphere1.yaml
  # - argocd/clusters/create/aws/aws-test-2.yaml
- - argocd/clusters/create/aws/aws-test-6.yaml
+ - argocd/clusters/create/aws/aws-gitops-1.yaml
 
  ## Create Instana Virtual Machines
  #- argocd/infra/virtual-machines/instana/instana-vm.yaml
