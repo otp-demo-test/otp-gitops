@@ -20,6 +20,7 @@ spec:
         clustersList: 
         - aws-gitops-1
         - azure-test-1
+        - azure-test-2
         awsClustersList:
         - aws-gitops-1
   syncPolicy:
