@@ -18,8 +18,7 @@ spec:
     helm:
       values: |
         azureClustersList: 
-        - azure0
-        - azure1
+        - azure-test-1
   syncPolicy:
     automated:
       prune: true
