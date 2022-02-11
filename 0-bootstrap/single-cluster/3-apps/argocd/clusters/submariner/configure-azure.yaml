@@ -20,6 +20,7 @@ spec:
         azureClustersList: 
         - azure-test-1
         - azure-ui-2
+        - azure-gitops-2
   syncPolicy:
     automated:
       prune: true
