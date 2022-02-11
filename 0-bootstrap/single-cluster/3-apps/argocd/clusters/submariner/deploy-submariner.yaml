@@ -19,7 +19,6 @@ spec:
       values: |
         clustersList: 
         - aws-gitops-1
-        - azure-test-1
         - azure-ui-2
         - aws-rhacm-0
         awsClustersList:
