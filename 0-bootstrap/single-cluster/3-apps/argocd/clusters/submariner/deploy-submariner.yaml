@@ -21,6 +21,7 @@ spec:
         - aws-gitops-1
         - azure-ui-2
         - aws-rhacm-0
+        - azure-gitops-2
         awsClustersList:
         - aws-gitops-1
         - aws-rhacm-0
