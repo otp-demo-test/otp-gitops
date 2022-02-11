@@ -21,6 +21,7 @@ spec:
         - aws-gitops-1
         - azure-test-1
         - azure-test-2
+        - azure-ui-2
         awsClustersList:
         - aws-gitops-1
   syncPolicy:
