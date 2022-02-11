@@ -19,7 +19,7 @@ spec:
       values: |
         azureClustersList: 
         - azure-test-1
-        - azure-test-2
+        - azure-ui-2
   syncPolicy:
     automated:
       prune: true
