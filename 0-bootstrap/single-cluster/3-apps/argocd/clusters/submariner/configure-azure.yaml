@@ -21,6 +21,7 @@ spec:
         - azure-test-1
         - azure-ui-2
         - azure-gitops-2
+        - azure-ui-3
   syncPolicy:
     automated:
       prune: true
